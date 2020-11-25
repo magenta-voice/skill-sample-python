@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+
+
+msgid "HELLOAPP_HELLO"
+msgstr "Bonjour"
+
+msgid "HELLOAPP_JOKE"
+msgstr "J'ai une blague pour toi! {joke}"
+
+msgid "HELLOAPP_REQUEST_ERROR"
+msgstr "J'ai eu des problèmes pour avoir une blague. L'erreur est {err}"
+
+msgid "HELLOAPP_RESPONSE_ERROR"
+msgstr "J'ai eu du mal à te faire une blague. Je suis désolé :("
+
+msgid "HELLOAPP_NUMBER_SUCCESS_MESSAGE"
+msgstr "Félicitations! Le nombre est {number}"
+
+msgid "HELLOAPP_NUMBER_WRONG_MESSAGE"
+msgstr "Je suis désolé, ce n'était pas mon numéro. Peut-être la prochaine fois?"
+
+msgid "HELLOAPP_NO_NUMBER_MESSAGE"
+msgstr "J'ai eu du mal à vous comprendre. S'il vous plaît devinez un nombre de 1 à 10."

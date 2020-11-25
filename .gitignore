@@ -1,0 +1,8 @@
+/.coverage
+/.idea/
+/cover/
+envname/
+__pycache__
+/.project
+/.pydevproject
+skill_sdk.egg-info/
